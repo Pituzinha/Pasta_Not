@@ -78,4 +78,3 @@ print ("/n=== Resultado ===")
 #12 - Faça algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
 #13 - Faça um algoritmo aue leia o sálario de um funcionario e mostre seu novo salario, com 15% de aumento.
-
