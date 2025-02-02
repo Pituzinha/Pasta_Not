@@ -1,3 +1,5 @@
+#Código contém vários exemplos de loops, incluindo criação de listas, break dentro do for loops.
+
 list(range(6))
 list (range (12, -1, -2))
 
